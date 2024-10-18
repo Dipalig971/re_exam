@@ -30,7 +30,7 @@ Simple and Intuitive UI:
 
 <img src="https://github.com/user-attachments/assets/255082a3-85e9-47a7-8e67-32c49277736d" width=240>
 <img src="https://github.com/user-attachments/assets/32d59378-4cf9-48ef-99fd-2c8a6a3b223e" width=240>
-<img src="https://github.com/user-attachments/assets/8900b199-9ec3-4522-baa0-c8c7ab3f2733" width=240>
+<img src="https://github.com/user-attachments/assets/4f0a7f61-a303-43fe-be76-7915a4d0e7c1" width=240>
 
 
 https://drive.google.com/drive/folders/1_BiVV0Yq8h3oeMvZbnN6JzULnoZkoxr0?usp=sharing
